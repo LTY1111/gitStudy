@@ -109,6 +109,5 @@ git pull origin branchName //（从远程分支上拉取代码）
 
 ```
 git add 文件名
-git status//
 ```
 
