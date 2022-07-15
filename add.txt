@@ -1,0 +1,3 @@
+function lty(){
+console.log(lt);
+}
